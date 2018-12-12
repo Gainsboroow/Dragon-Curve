@@ -1,3 +1,8 @@
+"""
+Made by Gainsboroow
+Github : https://github.com/Gainsboroow/
+"""
+
 from turtle import *
 from copy import deepcopy
 
