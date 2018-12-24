@@ -1,6 +1,11 @@
 """
-Made by Gainsboroow
-Github : https://github.com/Gainsboroow/
+Dragon Curve Visualiser
+Created by Gainsboroow 
+Github : https://github.com/Gainsboroow
+Github Repository : https://github.com/Gainsboroow/Dragon-Curve
+
+How to use : 
+Enter the number of folds you want. Look at the results !
 """
 
 from turtle import *
